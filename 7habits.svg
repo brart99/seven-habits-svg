@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景 -->
+    <rect width="800" height="600" fill="#f9f9f9"/>
+    
+    <!-- 标题 -->
+    <text x="400" y="50" font-family="Arial, SimHei" font-size="28" text-anchor="middle" fill="#333">《高效能人士的七个习惯》框架</text>
+    
+    <!-- 中心圆圈 - 个人 -->
+    <circle cx="400" cy="300" r="85" fill="#e6f7ff" stroke="#1890ff" stroke-width="2"/>
+    <text x="400" y="290" font-family="Arial, SimHei" font-size="18" text-anchor="middle" fill="#333">自我</text>
+    <text x="400" y="320" font-family="Arial, SimHei" font-size="18" text-anchor="middle" fill="#333">不断更新</text>
+    <text x="400" y="345" font-family="Arial, SimHei" font-size="14" text-anchor="middle" fill="#666">第七习惯</text>
+    
+    <!-- 左侧 - 个人成功 -->
+    <path d="M180,170 A200,200 0 0,0 320,420" stroke="#52c41a" stroke-width="2" fill="#f6ffed" fill-opacity="0.6"/>
+    <text x="200" y="150" font-family="Arial, SimHei" font-size="18" text-anchor="middle" fill="#52c41a">个人成功</text>
+    <text x="200" y="175" font-family="Arial, SimHei" font-size="14" text-anchor="middle" fill="#666">从依赖到独立</text>
+    
+    <!-- 右侧 - 公众成功 -->
+    <path d="M480,420 A200,200 0 0,0 620,170" stroke="#fa8c16" stroke-width="2" fill="#fff7e6" fill-opacity="0.6"/>
+    <text x="600" y="150" font-family="Arial, SimHei" font-size="18" text-anchor="middle" fill="#fa8c16">公众成功</text>
+    <text x="600" y="175" font-family="Arial, SimHei" font-size="14" text-anchor="middle" fill="#666">从独立到互赖</text>
+    
+    <!-- 左侧三个习惯 -->
+    <circle cx="160" cy="220" r="60" fill="#f6ffed" stroke="#52c41a" stroke-width="2"/>
+    <text x="160" y="210" font-family="Arial, SimHei" font-size="16" text-anchor="middle" fill="#333">第一习惯</text>
+    <text x="160" y="235" font-family="Arial, SimHei" font-size="14" text-anchor="middle" fill="#333">积极主动</text>
+    
+    <circle cx="200" cy="320" r="60" fill="#f6ffed" stroke="#52c41a" stroke-width="2"/>
+    <text x="200" y="310" font-family="Arial, SimHei" font-size="16" text-anchor="middle" fill="#333">第二习惯</text>
+    <text x="200" y="335" font-family="Arial, SimHei" font-size="14" text-anchor="middle" fill="#333">以终为始</text>
+    
+    <circle cx="280" cy="410" r="60" fill="#f6ffed" stroke="#52c41a" stroke-width="2"/>
+    <text x="280" y="400" font-family="Arial, SimHei" font-size="16" text-anchor="middle" fill="#333">第三习惯</text>
+    <text x="280" y="425" font-family="Arial, SimHei" font-size="14" text-anchor="middle" fill="#333">要事第一</text>
+    
+    <!-- 右侧三个习惯 -->
+    <circle cx="640" cy="220" r="60" fill="#fff7e6" stroke="#fa8c16" stroke-width="2"/>
+    <text x="640" y="210" font-family="Arial, SimHei" font-size="16" text-anchor="middle" fill="#333">第四习惯</text>
+    <text x="640" y="235" font-family="Arial, SimHei" font-size="14" text-anchor="middle" fill="#333">双赢思维</text>
+    
+    <circle cx="600" cy="320" r="60" fill="#fff7e6" stroke="#fa8c16" stroke-width="2"/>
+    <text x="600" y="310" font-family="Arial, SimHei" font-size="16" text-anchor="middle" fill="#333">第五习惯</text>
+    <text x="600" y="335" font-family="Arial, SimHei" font-size="14" text-anchor="middle" fill="#333">知彼解己</text>
+    
+    <circle cx="520" cy="410" r="60" fill="#fff7e6" stroke="#fa8c16" stroke-width="2"/>
+    <text x="520" y="400" font-family="Arial, SimHei" font-size="16" text-anchor="middle" fill="#333">第六习惯</text>
+    <text x="520" y="425" font-family="Arial, SimHei" font-size="14" text-anchor="middle" fill="#333">协作增效</text>
+    
+    <!-- 底部说明 -->
+    <text x="400" y="520" font-family="Arial, SimHei" font-size="16" text-anchor="middle" fill="#333">从内而外全面造就自己</text>
+    <text x="400" y="550" font-family="Arial, SimHei" font-size="14" text-anchor="middle" fill="#666">作者: 史蒂芬·柯维 (Stephen R. Covey)</text>
+</svg>
